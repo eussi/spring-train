@@ -1,2 +1,3 @@
 # spring-train
-spring, spring, spring...
+
+Spring-related content
