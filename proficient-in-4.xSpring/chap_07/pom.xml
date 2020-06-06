@@ -10,7 +10,7 @@
 
     <properties>
         <file.encoding>UTF-8</file.encoding>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.2.6.RELEASE</spring.version>
         <cglib.version>3.0</cglib.version>
         <asm.version>4.0</asm.version>
 
